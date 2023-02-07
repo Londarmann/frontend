@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+button {
+  position: relative;
+}
+footer  {
+  display: grid;
+  position: fixed;
+  background-color: grey;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: blue;
+ 
+}

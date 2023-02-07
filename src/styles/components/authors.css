@@ -1,0 +1,35 @@
+.favouriteAuth {
+  padding: 0 2rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.everything {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.allAuth {
+  text-decoration: none;
+  grid-template-columns: auto, auto, auto ;
+}
+
+.authorPhoto a img {
+
+  width: 7rem;
+  border-radius: 3px;
+  margin-top: 10%;
+}
+
+h3 {
+
+  font-size: 0.876rem;
+  width: auto;
+  color: rgb(153, 91, 16);
+  margin-bottom: 20px;
+}
+
+.favouriteAuth a:active {
+  opacity: 0.9;
+}
